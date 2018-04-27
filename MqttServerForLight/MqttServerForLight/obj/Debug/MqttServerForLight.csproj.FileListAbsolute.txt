@@ -1,0 +1,13 @@
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\obj\Debug\MqttServerForLight.csprojResolveAssemblyReference.cache
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\obj\Debug\MqttServerForLight.csproj.CoreCompileInputs.cache
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\MqttServerForLight.exe.config
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\MqttServerForLight.exe
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\MqttServerForLight.pdb
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\obj\Debug\MqttServerForLight.exe
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\obj\Debug\MqttServerForLight.pdb
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christoffer\Desktop\EalVejle\4semester\internationalt\MqttServerForLight\MqttServerForLight\bin\Debug\System.Net.Http.Formatting.xml
